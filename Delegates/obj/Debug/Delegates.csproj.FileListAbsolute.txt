@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\asus\source\repos\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\asus\source\repos\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\asus\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\asus\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.pdb

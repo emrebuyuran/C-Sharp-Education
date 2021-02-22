@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\asus\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\asus\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\asus\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\asus\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb
